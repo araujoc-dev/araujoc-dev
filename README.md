@@ -1,6 +1,6 @@
 <!-- BANNER DO PERFIL -->
 <p align="center">
-  <img src="HeaderBanner.png&color=0:0B192C,100:1E3E62&height=200&section=header&text=Seu%20Nome%20Aqui&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="HeaderBanner.png" width="100%" alt="Header Banner — Caio Araujo">
 </p>
 
 <p align="center">
