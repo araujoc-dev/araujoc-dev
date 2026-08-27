@@ -14,7 +14,7 @@
 Olá! Bem-vindo ao meu perfil no GitHub.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 💻 Focado no aprendizado de **Python**, **C**, **HTML5/CSS3** e lógica de programação.
+- 💻 Focado no aprendizado de **Python**, **C**, **JAVA** e **HTML5/CSS3**.
 - 🎯 Interessado em desenvolvimento de software, acessibilidade digital e segurança.
 - 🚀 Sempre buscando construir novos projetos e evoluir como desenvolvedor.
 
@@ -27,6 +27,7 @@ Olá! Bem-vindo ao meu perfil no GitHub.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🔧 Ferramentas & Controle de Versão
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,19 +36,10 @@ Olá! Bem-vindo ao meu perfil no GitHub.
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" />
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/caioaraujosri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
