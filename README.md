@@ -5,6 +5,6 @@
     <img src="fast-track.png" width="48%" alt="Projeto Fast Track" />
   </a>
   <a href="https://github.com/araujoc-dev/FUNDAMENTOS-PYTHON-PRIMEIRO-SEMESTRE">
-    <img src="python.png" width="48%" alt="Fundamentos Python" />
+    <img src="fundamentospython.png" width="48%" alt="Fundamentos Python" />
   </a>
 </p>
